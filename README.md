@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> &nbsp </p>
 <h3 align="center"><b></b></h3>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=plmqazoknijb&show_icons=true&include_all_commits=true&theme=brufy&hide_border=true" alt="Anurag's github stats" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plmqazoknijb&layout=compact&langs_count=8&theme=brufy&hide_border=true" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plmqazoknijb&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plmqazoknijb&layout=compact&theme=vue)
